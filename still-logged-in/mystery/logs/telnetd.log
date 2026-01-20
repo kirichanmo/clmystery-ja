@@ -1,0 +1,185 @@
+Jan 11 09:05:02 minerva telnetd[2085]: ttloop: client negotiated options
+Jan 11 09:08:45 minerva telnetd[1770]: login failed: user=ohnishi
+Jan 11 09:31:56 minerva telnetd[1921]: connect from 10.0.2.51
+Jan 11 09:38:30 minerva telnetd[1735]: ttloop: client negotiated options
+Jan 11 09:53:07 minerva telnetd[1865]: connect from 10.0.2.17
+Jan 11 10:01:47 minerva telnetd[1695]: login failed: user=takamiy
+Jan 11 10:08:20 minerva telnetd[1928]: connect from 10.0.2.11
+Jan 11 10:12:01 minerva telnetd[1825]: connect from 10.0.2.23
+Jan 11 10:16:49 minerva telnetd[1733]: connect from 10.0.2.9
+Jan 11 10:17:28 minerva telnetd[1726]: connect from 10.0.2.17
+Jan 11 10:25:23 minerva telnetd[2006]: login failed: user=kurose
+Jan 11 10:26:37 minerva telnetd[1757]: ttloop: client negotiated options
+Jan 11 10:28:11 minerva telnetd[2060]: connect from 10.0.2.9
+Jan 11 10:51:43 minerva telnetd[2095]: ttloop: client negotiated options
+Jan 11 11:12:38 minerva telnetd[1860]: login failed: user=guest
+Jan 11 11:20:59 minerva telnetd[1963]: connect from 10.0.2.17
+Jan 11 11:31:32 minerva telnetd[1839]: ttloop: client negotiated options
+Jan 11 11:33:13 minerva telnetd[1887]: ttloop: client negotiated options
+Jan 11 11:33:23 minerva telnetd[1803]: login failed: user=manabe
+Jan 11 11:38:57 minerva telnetd[1863]: connect from 10.0.2.17
+Jan 11 11:39:56 minerva telnetd[1644]: connect from 10.0.2.11
+Jan 11 11:49:08 minerva telnetd[1821]: ttloop: client negotiated options
+Jan 11 11:50:23 minerva telnetd[1860]: connect from 10.0.2.17
+Jan 11 11:52:20 minerva telnetd[2078]: login failed: user=manabe
+Jan 11 11:56:16 minerva telnetd[1972]: ttloop: client negotiated options
+Jan 11 15:37:22 minerva telnetd[1624]: connect from 10.0.2.11
+Jan 11 15:46:03 minerva telnetd[1898]: connect from 10.0.2.44
+Jan 11 15:50:08 minerva telnetd[1721]: login failed: user=kurose
+Jan 11 18:24:55 minerva telnetd[1915]: connect from 10.0.2.44
+Jan 11 18:30:15 minerva telnetd[2012]: login failed: user=kurose
+Jan 11 18:30:52 minerva telnetd[1608]: connect from 10.0.2.23
+Jan 11 18:41:13 minerva telnetd[1992]: connect from 10.0.2.51
+Jan 11 18:44:58 minerva telnetd[1851]: connect from 10.0.2.17
+Jan 11 18:52:39 minerva telnetd[1948]: connect from 10.0.2.51
+Jan 11 18:54:10 minerva telnetd[1964]: ttloop: client negotiated options
+Jan 11 20:02:25 minerva telnetd[1626]: login failed: user=kurose
+Jan 11 20:10:25 minerva telnetd[1915]: ttloop: client negotiated options
+Jan 11 20:24:36 minerva telnetd[1616]: connect from 10.0.2.51
+Jan 11 20:32:35 minerva telnetd[1654]: connect from 10.0.2.23
+Jan 11 20:32:53 minerva telnetd[1860]: login failed: user=takamiy
+Jan 11 20:34:22 minerva telnetd[1946]: ttloop: client negotiated options
+Jan 11 20:45:04 minerva telnetd[1881]: connect from 10.0.2.51
+Jan 11 20:46:55 minerva telnetd[1776]: connect from 10.0.2.44
+Jan 11 20:53:59 minerva telnetd[1888]: ttloop: client negotiated options
+Jan 11 21:09:52 minerva telnetd[1948]: connect from 10.0.2.17
+Jan 11 21:44:13 minerva telnetd[1810]: ttloop: client negotiated options
+Jan 11 22:01:05 minerva telnetd[2083]: login failed: user=manabe
+Jan 11 22:04:44 minerva telnetd[1630]: connect from 10.0.2.17
+Jan 11 22:18:34 minerva telnetd[1604]: connect from 10.0.2.12
+Jan 11 22:23:23 minerva telnetd[1827]: connect from 10.0.2.12
+Jan 11 22:29:13 minerva telnetd[1774]: connect from 10.0.2.51
+Jan 11 22:33:24 minerva telnetd[1760]: login failed: user=takamiy
+Jan 11 22:33:26 minerva telnetd[1993]: ttloop: client negotiated options
+Jan 11 22:55:54 minerva telnetd[1976]: connect from 10.0.2.9
+Jan 11 23:17:08 minerva telnetd[1920]: login failed: user=guest
+Jan 11 23:18:04 minerva telnetd[1797]: login failed: user=takamiy
+Jan 11 23:22:08 minerva telnetd[2049]: ttloop: client negotiated options
+Jan 11 23:36:23 minerva telnetd[1839]: ttloop: client negotiated options
+Jan 11 23:41:10 minerva telnetd[1903]: connect from 10.0.2.51
+Jan 11 23:57:18 minerva telnetd[2033]: connect from 10.0.2.11
+Jan 12 09:15:47 minerva telnetd[1622]: connect from 10.0.2.44
+Jan 12 09:25:16 minerva telnetd[2018]: login failed: user=takamiy
+Jan 12 09:35:29 minerva telnetd[1944]: connect from 10.0.2.12
+Jan 12 09:48:01 minerva telnetd[2100]: login failed: user=takamiya
+Jan 12 09:53:25 minerva telnetd[2003]: connect from 10.0.2.44
+Jan 12 09:59:57 minerva telnetd[1635]: connect from 10.0.2.44
+Jan 12 10:02:27 minerva telnetd[1776]: connect from 10.0.2.9
+Jan 12 10:02:51 minerva telnetd[1938]: login failed: user=guest
+Jan 12 10:03:53 minerva telnetd[1880]: connect from 10.0.2.51
+Jan 12 10:22:59 minerva telnetd[1826]: connect from 10.0.2.9
+Jan 12 10:33:28 minerva telnetd[1870]: connect from 10.0.2.9
+Jan 12 11:00:35 minerva telnetd[2100]: connect from 10.0.2.17
+Jan 12 11:19:24 minerva telnetd[1694]: login failed: user=manabe
+Jan 12 11:26:56 minerva telnetd[2028]: ttloop: client negotiated options
+Jan 12 11:30:20 minerva telnetd[2079]: connect from 10.0.2.17
+Jan 12 11:39:54 minerva telnetd[1927]: ttloop: client negotiated options
+Jan 12 11:40:43 minerva telnetd[1818]: login failed: user=kurose
+Jan 12 11:41:55 minerva telnetd[1778]: connect from 10.0.2.11
+Jan 12 11:46:29 minerva telnetd[1931]: login failed: user=guest
+Jan 12 15:03:06 minerva telnetd[1811]: login failed: user=guest
+Jan 12 15:13:04 minerva telnetd[1651]: connect from 10.0.2.51
+Jan 12 15:14:08 minerva telnetd[1844]: login failed: user=takamiy
+Jan 12 15:15:03 minerva telnetd[1942]: connect from 10.0.2.51
+Jan 12 15:19:54 minerva telnetd[1962]: ttloop: client negotiated options
+Jan 12 15:34:47 minerva telnetd[1970]: ttloop: client negotiated options
+Jan 12 15:45:37 minerva telnetd[1850]: ttloop: client negotiated options
+Jan 12 15:48:15 minerva telnetd[1948]: login failed: user=TakamiY
+Jan 12 18:10:25 minerva telnetd[1951]: ttloop: client negotiated options
+Jan 12 18:14:19 minerva telnetd[1994]: login failed: user=takamiya
+Jan 12 18:18:07 minerva telnetd[1893]: login failed: user=ohnishi
+Jan 12 18:37:46 minerva telnetd[1893]: connect from 10.0.2.11
+Jan 12 18:39:30 minerva telnetd[1698]: connect from 10.0.2.17
+Jan 12 18:44:07 minerva telnetd[1927]: connect from 10.0.2.23
+Jan 12 18:56:02 minerva telnetd[1604]: login failed: user=guest
+Jan 12 20:15:19 minerva telnetd[2048]: ttloop: client negotiated options
+Jan 12 20:18:29 minerva telnetd[1928]: login failed: user=manabe
+Jan 12 20:18:41 minerva telnetd[1630]: connect from 10.0.2.12
+Jan 12 20:26:44 minerva telnetd[1881]: ttloop: client negotiated options
+Jan 12 20:44:15 minerva telnetd[1631]: connect from 10.0.2.9
+Jan 12 20:49:51 minerva telnetd[1674]: connect from 10.0.2.23
+Jan 12 20:50:18 minerva telnetd[1890]: ttloop: client negotiated options
+Jan 12 21:11:49 minerva telnetd[1669]: login failed: user=takamiya
+Jan 12 21:15:28 minerva telnetd[1985]: ttloop: client negotiated options
+Jan 12 21:23:57 minerva telnetd[1795]: ttloop: client negotiated options
+Jan 12 21:24:05 minerva telnetd[1949]: ttloop: client negotiated options
+Jan 12 21:50:33 minerva telnetd[1763]: connect from 10.0.2.9
+Jan 12 22:13:12 minerva telnetd[2023]: connect from 10.0.2.51
+Jan 12 22:20:30 minerva telnetd[1778]: ttloop: client negotiated options
+Jan 12 22:22:09 minerva telnetd[1741]: ttloop: client negotiated options
+Jan 12 22:30:41 minerva telnetd[1702]: ttloop: client negotiated options
+Jan 12 22:51:03 minerva telnetd[1832]: login failed: user=ohnishi
+Jan 12 23:01:12 minerva telnetd[1839]: connect from 10.0.2.23
+Jan 12 23:01:13 minerva telnetd[1839]: ttloop: client negotiated options
+Jan 12 23:01:14 minerva telnetd[1839]: login: user=takamiY
+Jan 12 23:01:14 minerva telnetd[1839]: login: user=takamiy
+Jan 12 23:03:02 minerva telnetd[1839]: ttloop: peer died: Connection reset by peer
+Jan 12 23:09:10 minerva telnetd[1767]: login failed: user=guest
+Jan 12 23:13:48 minerva telnetd[2042]: connect from 10.0.2.12
+Jan 12 23:14:26 minerva telnetd[1753]: connect from 10.0.2.23
+Jan 12 23:18:14 minerva telnetd[2017]: login failed: user=takamiy
+Jan 12 23:20:05 minerva telnetd[1805]: connect from 10.0.2.9
+Jan 12 23:25:33 minerva telnetd[1665]: ttloop: client negotiated options
+Jan 12 23:27:34 minerva telnetd[1794]: connect from 10.0.2.12
+Jan 12 23:29:17 minerva telnetd[1698]: connect from 10.0.2.12
+Jan 12 23:44:17 minerva telnetd[1670]: login failed: user=takamiy
+Jan 13 09:01:33 minerva telnetd[1969]: login failed: user=kurose
+Jan 13 09:05:25 minerva telnetd[1794]: login failed: user=guest
+Jan 13 09:06:27 minerva telnetd[1718]: connect from 10.0.2.12
+Jan 13 09:13:59 minerva telnetd[1697]: connect from 10.0.2.9
+Jan 13 09:14:13 minerva telnetd[2061]: login failed: user=takamiy
+Jan 13 09:32:52 minerva telnetd[1957]: connect from 10.0.2.9
+Jan 13 09:33:02 minerva telnetd[2029]: connect from 10.0.2.12
+Jan 13 09:35:26 minerva telnetd[2095]: login failed: user=manabe
+Jan 13 09:44:10 minerva telnetd[1642]: ttloop: client negotiated options
+Jan 13 09:48:00 minerva telnetd[1811]: ttloop: client negotiated options
+Jan 13 10:01:05 minerva telnetd[1781]: connect from 10.0.2.51
+Jan 13 10:11:27 minerva telnetd[1829]: login failed: user=ohnishi
+Jan 13 10:12:51 minerva telnetd[1989]: login failed: user=takamiy
+Jan 13 10:46:57 minerva telnetd[1886]: login failed: user=manabe
+Jan 13 11:04:10 minerva telnetd[1822]: connect from 10.0.2.23
+Jan 13 11:06:58 minerva telnetd[1649]: connect from 10.0.2.51
+Jan 13 11:19:20 minerva telnetd[1908]: connect from 10.0.2.9
+Jan 13 11:24:45 minerva telnetd[2001]: connect from 10.0.2.9
+Jan 13 11:50:44 minerva telnetd[1970]: login failed: user=kurose
+Jan 13 15:04:45 minerva telnetd[1677]: connect from 10.0.2.11
+Jan 13 15:19:43 minerva telnetd[2023]: connect from 10.0.2.12
+Jan 13 15:30:13 minerva telnetd[2045]: connect from 10.0.2.23
+Jan 13 15:31:35 minerva telnetd[1935]: connect from 10.0.2.9
+Jan 13 15:35:20 minerva telnetd[1997]: connect from 10.0.2.23
+Jan 13 15:39:33 minerva telnetd[1729]: connect from 10.0.2.12
+Jan 13 15:47:09 minerva telnetd[1608]: login failed: user=takamiy
+Jan 13 18:00:25 minerva telnetd[1770]: login failed: user=TakamiY
+Jan 13 18:24:43 minerva telnetd[1909]: connect from 10.0.2.51
+Jan 13 18:28:23 minerva telnetd[1989]: connect from 10.0.2.23
+Jan 13 18:51:15 minerva telnetd[1965]: connect from 10.0.2.11
+Jan 13 20:01:13 minerva telnetd[1900]: ttloop: client negotiated options
+Jan 13 20:05:34 minerva telnetd[1970]: connect from 10.0.2.12
+Jan 13 20:10:08 minerva telnetd[1968]: login failed: user=takamiy
+Jan 13 20:11:25 minerva telnetd[2095]: connect from 10.0.2.23
+Jan 13 20:28:21 minerva telnetd[1820]: ttloop: client negotiated options
+Jan 13 20:36:54 minerva telnetd[2098]: ttloop: client negotiated options
+Jan 13 20:55:24 minerva telnetd[1606]: connect from 10.0.2.23
+Jan 13 20:58:13 minerva telnetd[1789]: connect from 10.0.2.23
+Jan 13 21:05:23 minerva telnetd[2091]: login failed: user=manabe
+Jan 13 21:10:08 minerva telnetd[1737]: connect from 10.0.2.23
+Jan 13 21:11:43 minerva telnetd[1899]: connect from 10.0.2.9
+Jan 13 21:15:16 minerva telnetd[1704]: login failed: user=ohnishi
+Jan 13 21:18:09 minerva telnetd[1700]: connect from 10.0.2.23
+Jan 13 21:20:23 minerva telnetd[1654]: connect from 10.0.2.11
+Jan 13 21:23:07 minerva telnetd[2077]: connect from 10.0.2.51
+Jan 13 21:43:57 minerva telnetd[1876]: connect from 10.0.2.23
+Jan 13 21:49:20 minerva telnetd[1615]: connect from 10.0.2.9
+Jan 13 21:59:04 minerva telnetd[1753]: login failed: user=takamiy
+Jan 13 22:17:02 minerva telnetd[2073]: login failed: user=kurose
+Jan 13 22:23:03 minerva telnetd[1916]: login failed: user=takamiy
+Jan 13 22:29:06 minerva telnetd[2011]: login failed: user=TakamiY
+Jan 13 22:31:14 minerva telnetd[1782]: ttloop: client negotiated options
+Jan 13 22:36:50 minerva telnetd[1724]: connect from 10.0.2.23
+Jan 13 22:38:39 minerva telnetd[1700]: connect from 10.0.2.44
+Jan 13 22:42:31 minerva telnetd[1608]: login failed: user=ohnishi
+Jan 13 22:46:41 minerva telnetd[1978]: login failed: user=takamiya
+Jan 13 22:50:04 minerva telnetd[1784]: ttloop: client negotiated options
+Jan 13 22:58:15 minerva telnetd[1956]: login failed: user=ohnishi
+Jan 13 23:36:42 minerva telnetd[1616]: ttloop: client negotiated options
+Jan 13 23:41:22 minerva telnetd[1757]: connect from 10.0.2.23

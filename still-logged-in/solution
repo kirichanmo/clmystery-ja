@@ -25,3 +25,9 @@ Windows での確認:
 
   echo " " && sed -n '/Z/p' encoded | cut -c 8 | tr -d '\n' && echo " "
 
+解法と真相を見る / Seeing The Solution:
+
+  spoiler に解法手順と真相がエンコードされています。
+  以下のコマンドでデコード:
+
+  cat spoiler | base64 -d

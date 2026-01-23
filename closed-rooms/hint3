@@ -1,0 +1,11 @@
+ヒント3: ログから実際の行動を追え
+================================
+
+各人の証言が本当か、ログで裏付けを取ろう。
+
+  grep "himuro" mystery/logs/cardkey.log
+  grep "tadokoro" mystery/logs/cardkey.log
+  grep "kuroda" mystery/logs/cardkey.log
+
+証言とログの時刻は一致しているか？
+全員の証言を検証せよ。

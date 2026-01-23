@@ -1,0 +1,10 @@
+ヒント2: 黒田准教授の証言に注目
+==============================
+
+401号室の黒田准教授が何か知っているかもしれない。
+
+  head -1 mystery/building/4F.txt
+
+証言のタイムラインを詳しく確認しよう。
+
+  cat mystery/testimonies/kuroda_times.txt

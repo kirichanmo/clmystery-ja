@@ -1,0 +1,83 @@
+Jan 13 09:15:22 athena sshd[2041]: Accepted password for morimot from 10.0.3.23 port 49221 ssh2
+Jan 13 09:15:22 athena sshd[2041]: pam_unix(sshd:session): session opened for user morimot
+Jan 13 09:18:45 athena sudo: morimot : TTY=pts/0 ; PWD=/home/morimot ; USER=root ; COMMAND=/usr/bin/systemctl status httpd
+Jan 13 10:32:18 athena sshd[2108]: Accepted password for shirakaw from 10.0.3.11 port 52847 ssh2
+Jan 13 10:32:18 athena sshd[2108]: pam_unix(sshd:session): session opened for user shirakaw
+Jan 13 11:45:03 athena sudo: morimot : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/messages
+Jan 13 14:22:17 athena sshd[2041]: pam_unix(sshd:session): session closed for user morimot
+Jan 13 16:08:41 athena sshd[2108]: pam_unix(sshd:session): session closed for user shirakaw
+Jan 13 18:55:32 athena sshd[2215]: Accepted password for inukai from 10.0.3.9 port 48103 ssh2
+Jan 13 18:55:32 athena sshd[2215]: pam_unix(sshd:session): session opened for user inukai
+Jan 13 19:12:08 athena sudo: inukai : TTY=pts/1 ; PWD=/home/inukai ; USER=root ; COMMAND=/usr/local/bin/hvac-control.sh --status
+Jan 13 20:45:19 athena sshd[2215]: pam_unix(sshd:session): session closed for user inukai
+Jan 14 08:42:15 athena sshd[2301]: Accepted password for satoke from 10.0.3.31 port 51092 ssh2
+Jan 14 08:42:15 athena sshd[2301]: pam_unix(sshd:session): session opened for user satoke
+Jan 14 08:55:28 athena sudo: satoke : TTY=pts/0 ; PWD=/home/satoke ; USER=root ; COMMAND=/usr/bin/cat /var/log/access-records.log
+Jan 14 09:31:47 athena sshd[2358]: Accepted password for mizuno from 10.0.3.17 port 49873 ssh2
+Jan 14 09:31:47 athena sshd[2358]: pam_unix(sshd:session): session opened for user mizuno
+Jan 14 10:18:22 athena sudo: mizuno : TTY=pts/1 ; PWD=/home/mizuno ; USER=root ; COMMAND=/usr/bin/systemctl restart httpd
+Jan 14 12:05:33 athena sshd[2301]: pam_unix(sshd:session): session closed for user satoke
+Jan 14 14:22:41 athena sshd[2358]: pam_unix(sshd:session): session closed for user mizuno
+Jan 14 16:38:52 athena sshd[2412]: Accepted password for morimot from 10.0.3.23 port 52184 ssh2
+Jan 14 16:38:52 athena sshd[2412]: pam_unix(sshd:session): session opened for user morimot
+Jan 14 16:52:17 athena sudo: morimot : TTY=pts/0 ; PWD=/usr/local/bin ; USER=root ; COMMAND=/usr/bin/vim /usr/local/bin/backup.sh
+Jan 14 18:15:43 athena sshd[2412]: pam_unix(sshd:session): session closed for user morimot
+Jan 15 09:08:35 athena sshd[2501]: Accepted password for shirakaw from 10.0.3.11 port 48562 ssh2
+Jan 15 09:08:35 athena sshd[2501]: pam_unix(sshd:session): session opened for user shirakaw
+Jan 15 10:22:18 athena sshd[2558]: Accepted password for mizuno from 10.0.3.17 port 51847 ssh2
+Jan 15 10:22:18 athena sshd[2558]: pam_unix(sshd:session): session opened for user mizuno
+Jan 15 10:45:33 athena sudo: mizuno : TTY=pts/1 ; PWD=/home/mizuno ; USER=root ; COMMAND=/usr/bin/crontab -e
+Jan 15 11:02:47 athena sshd[2501]: pam_unix(sshd:session): session closed for user shirakaw
+Jan 15 11:58:21 athena sshd[2558]: pam_unix(sshd:session): session closed for user mizuno
+Jan 15 14:15:08 athena sshd[2615]: Accepted password for inukai from 10.0.3.9 port 49281 ssh2
+Jan 15 14:15:08 athena sshd[2615]: pam_unix(sshd:session): session opened for user inukai
+Jan 15 14:32:55 athena sudo: inukai : TTY=pts/0 ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/bin/chmod 755 /var/www/html/research
+Jan 15 15:48:19 athena sshd[2615]: pam_unix(sshd:session): session closed for user inukai
+Jan 15 18:22:41 athena sshd[2672]: Accepted password for morimot from 10.0.3.23 port 50193 ssh2
+Jan 15 18:22:41 athena sshd[2672]: pam_unix(sshd:session): session opened for user morimot
+Jan 15 18:35:17 athena sudo: morimot : TTY=pts/0 ; PWD=/home/morimot ; USER=root ; COMMAND=/usr/local/bin/hvac-control.sh --status
+Jan 15 19:12:08 athena sshd[2672]: pam_unix(sshd:session): session closed for user morimot
+Jan 16 08:55:32 athena sshd[2731]: Accepted password for satoke from 10.0.3.31 port 48721 ssh2
+Jan 16 08:55:32 athena sshd[2731]: pam_unix(sshd:session): session opened for user satoke
+Jan 16 09:22:45 athena sshd[2788]: Accepted password for shirakaw from 10.0.3.11 port 52103 ssh2
+Jan 16 09:22:45 athena sshd[2788]: pam_unix(sshd:session): session opened for user shirakaw
+Jan 16 10:15:33 athena sudo: satoke : TTY=pts/0 ; PWD=/home/satoke ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Jan 16 11:42:18 athena sshd[2845]: Accepted password for mizuno from 10.0.3.17 port 49582 ssh2
+Jan 16 11:42:18 athena sshd[2845]: pam_unix(sshd:session): session opened for user mizuno
+Jan 16 12:08:55 athena sudo: mizuno : TTY=pts/2 ; PWD=/home/mizuno ; USER=root ; COMMAND=/usr/bin/ps aux
+Jan 16 13:25:41 athena sshd[2731]: pam_unix(sshd:session): session closed for user satoke
+Jan 16 14:52:17 athena sshd[2788]: pam_unix(sshd:session): session closed for user shirakaw
+Jan 16 16:18:33 athena sshd[2845]: pam_unix(sshd:session): session closed for user mizuno
+Jan 16 19:45:22 athena sshd[2902]: Accepted password for inukai from 10.0.3.9 port 51847 ssh2
+Jan 16 19:45:22 athena sshd[2902]: pam_unix(sshd:session): session opened for user inukai
+Jan 16 20:02:18 athena sudo: inukai : TTY=pts/0 ; PWD=/home/inukai ; USER=root ; COMMAND=/usr/bin/systemctl status httpd
+Jan 16 21:35:41 athena sshd[2902]: pam_unix(sshd:session): session closed for user inukai
+Jan 17 09:12:35 athena sshd[3001]: Accepted password for morimot from 10.0.3.23 port 48927 ssh2
+Jan 17 09:12:35 athena sshd[3001]: pam_unix(sshd:session): session opened for user morimot
+Jan 17 09:28:47 athena sudo: morimot : TTY=pts/0 ; PWD=/home/morimot ; USER=root ; COMMAND=/usr/bin/df -h
+Jan 17 10:45:18 athena sshd[3058]: Accepted password for shirakaw from 10.0.3.11 port 52481 ssh2
+Jan 17 10:45:18 athena sshd[3058]: pam_unix(sshd:session): session opened for user shirakaw
+Jan 17 11:22:33 athena sshd[3115]: Failed password for invalid user admin from 10.0.3.44 port 49182 ssh2
+Jan 17 11:22:38 athena sshd[3115]: Failed password for invalid user admin from 10.0.3.44 port 49182 ssh2
+Jan 17 12:35:47 athena sshd[3001]: pam_unix(sshd:session): session closed for user morimot
+Jan 17 14:18:22 athena sshd[3058]: pam_unix(sshd:session): session closed for user shirakaw
+Jan 17 16:42:55 athena sshd[3172]: Accepted password for mizuno from 10.0.3.17 port 50821 ssh2
+Jan 17 16:42:55 athena sshd[3172]: pam_unix(sshd:session): session opened for user mizuno
+Jan 17 17:05:18 athena sudo: mizuno : TTY=pts/0 ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/bin/ls -la /var/www/html/hvac
+Jan 17 18:32:41 athena sshd[3172]: pam_unix(sshd:session): session closed for user mizuno
+Jan 17 20:15:33 athena sshd[3229]: Accepted password for inukai from 10.0.3.9 port 48562 ssh2
+Jan 17 20:15:33 athena sshd[3229]: pam_unix(sshd:session): session opened for user inukai
+Jan 17 20:28:17 athena sudo: inukai : TTY=pts/0 ; PWD=/home/inukai ; USER=root ; COMMAND=/usr/local/bin/hvac-control.sh --mode=heat --zone=serverroom
+Jan 17 22:45:18 athena sshd[3229]: pam_unix(sshd:session): session closed for user inukai
+Jan 18 00:15:22 athena sshd[3301]: Accepted password for inukai from 10.0.3.9 port 51203 ssh2
+Jan 18 00:15:22 athena sshd[3301]: pam_unix(sshd:session): session opened for user inukai
+Jan 18 00:22:45 athena sudo: inukai : TTY=pts/0 ; PWD=/home/inukai ; USER=root ; COMMAND=/usr/bin/systemctl status httpd
+Jan 18 00:35:18 athena sudo: inukai : TTY=pts/0 ; PWD=/var/log/httpd ; USER=root ; COMMAND=/usr/bin/tail -100 /var/log/httpd/error_log
+Jan 18 08:22:15 athena sshd[3358]: Accepted password for morimot from 10.0.3.23 port 49827 ssh2
+Jan 18 08:22:15 athena sshd[3358]: pam_unix(sshd:session): session opened for user morimot
+Jan 18 08:35:42 athena sudo: morimot : TTY=pts/1 ; PWD=/home/morimot ; USER=root ; COMMAND=/usr/local/bin/hvac-control.sh --status
+Jan 18 08:36:15 athena sudo: morimot : TTY=pts/1 ; PWD=/home/morimot ; USER=root ; COMMAND=/usr/local/bin/hvac-control.sh --mode=heat --zone=serverroom
+Jan 18 09:15:33 athena sshd[3415]: Accepted password for satoke from 10.0.3.31 port 52184 ssh2
+Jan 18 09:15:33 athena sshd[3415]: pam_unix(sshd:session): session opened for user satoke
+Jan 18 10:42:18 athena sshd[3358]: pam_unix(sshd:session): session closed for user morimot
+Jan 18 11:28:45 athena sshd[3415]: pam_unix(sshd:session): session closed for user satoke

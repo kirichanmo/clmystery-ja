@@ -1,0 +1,9 @@
+ヒント3: 誰がcronを仕掛けた？
+============================
+
+cronジョブはrootとして実行されている。
+誰がrootのcrontabを編集できた？ secureログを確認せよ。
+
+  grep crontab mystery/logs/secure
+
+crontabを編集したのは誰だ？

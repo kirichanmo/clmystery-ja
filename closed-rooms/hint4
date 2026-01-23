@@ -1,0 +1,8 @@
+ヒント4: 証言とログを比較せよ
+============================
+
+証言から抽出したタイムラインと、ログから作成したタイムラインを比較。
+
+  diff mystery/testimonies/kuroda_times.txt mystery/testimonies/kuroda_log.txt
+
+矛盾点はどこだ？

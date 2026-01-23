@@ -1,0 +1,33 @@
+解答の確認方法 / Checking Your Answer
+======================================
+
+Mac/Linux での確認:
+
+  以下のコマンドをコピーし、"username" の部分を
+  確認したい容疑者のアカウント名に置き換えて実行してください。
+  （mystery ディレクトリの親ディレクトリから実行）
+
+  echo -n "username" | $(command -v md5 || command -v md5sum) | grep -qif /dev/stdin encoded && echo "正解！お見事、名探偵。" || echo "残念、もう一度調べてみよう。"
+
+Windows での確認:
+
+  1. 以下のコマンドで容疑者名のハッシュを取得:
+
+     echo -n "username" | $(command -v md5 || command -v md5sum)
+
+  2. 出力されたコードを使って確認:
+
+     grep -qi "出力されたコード" encoded && echo "正解！" || echo "残念、もう一度。"
+
+答えを見る / Seeing The Answer:
+
+  諦めて答えを見たい場合は、以下のコマンドを実行:
+
+  echo " " && sed -n '/Z/p' encoded | cut -c 8 | tr -d '\n' && echo " "
+
+解法と真相を見る / Seeing The Solution:
+
+  spoiler に解法手順と真相がエンコードされています。
+  以下のコマンドでデコード:
+
+  cat spoiler | base64 -d
